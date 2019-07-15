@@ -66,6 +66,8 @@
 					</td>
 					<slot name="tbody-tr" :row="row"></slot>
 				</tr>
+				<slot name="body-center">
+				</slot>
 			</tbody>
 		</table>
 
