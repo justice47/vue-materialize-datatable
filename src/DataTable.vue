@@ -150,7 +150,7 @@
 			exportable: {default: true},
 			printable: {default: true},
 			locale: {default: 'en'},
-			initSortCol: {default: -1}
+			initSortCol: {default: -1},
 			loadingAnimation: {default: true}
 		},
 
